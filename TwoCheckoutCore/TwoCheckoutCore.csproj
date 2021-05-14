@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Company>SaasyCloud.com</Company>
+    <Authors>Sam Morreel</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/slamj1/2checkout-dotnetcore</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>2Checkout Verifone dotnetcore c#</PackageTags>
+    <Description>A .NET core (5.0) version of the .NET 2Checkout library</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>
