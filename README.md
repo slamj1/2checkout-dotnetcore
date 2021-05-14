@@ -5,7 +5,7 @@ This library provides developers with a simple set of bindings to the 2Checkout 
 
 Full documentation for each binding is provided at [in the wiki](https://github.com/2Checkout/2checkout-dotnet/wiki).
 
-NOTE: This is the .NET Standard 2.1 version of the orginal 2Checkout /NET library provided by SaasyCloud.com.
+NOTE: This is the .NET Standard 2.1 version, provided by SaasyCloud.com forked from the original 2Checkout .NET library.
 
 Installation
 ------------
