@@ -10,7 +10,7 @@ NOTE: This is the .NET Standard 2.1 version, provided by SaasyCloud.com forked f
 Installation
 ------------
 
-Utilize the procvided Nuget Package here -> TODO
+Utilize the provided NuGet Package here -> TODO
 
 Example Payment API Usage:
 ---------------------
