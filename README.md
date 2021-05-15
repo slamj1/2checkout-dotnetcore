@@ -10,7 +10,9 @@ NOTE: This is the .NET Standard 2.1 version, provided by SaasyCloud.com forked f
 Installation
 ------------
 
-Utilize the provided NuGet Package here -> TODO
+Install the NuGet package:
+
+Install-Package TwoCheckoutCore -Version 1.0.0
 
 Example Payment API Usage:
 ---------------------

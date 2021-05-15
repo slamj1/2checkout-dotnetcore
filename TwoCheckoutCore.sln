@@ -5,7 +5,13 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoCheckoutCore", "TwoCheckoutCore\TwoCheckoutCore.csproj", "{EAAE5DEE-436C-4572-AF52-EF5678BDAC47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoCheckoutCore.Tests", "TwoCheckoutCore.Tests\TwoCheckoutCore.Tests.csproj", "{5E46FF0C-4034-48D9-8F03-1A66193FB2EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoCheckoutCore.Tests", "TwoCheckoutCore.Tests\TwoCheckoutCore.Tests.csproj", "{5E46FF0C-4034-48D9-8F03-1A66193FB2EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EBDDDDC7-E414-4605-8671-37B093520B17}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
